@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Donnish233
-- 👀 I’m interested in ...Web3
+- 👀 I’m interested in ...Web development in general
 - 🌱 I’m currently learning ...Frontend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Web3 dApp projects
 - 📫 How to reach me ...Phone No.07043705162
-- 😄 Pronouns: ...He
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
 <!---
